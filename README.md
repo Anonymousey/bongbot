@@ -1,18 +1,18 @@
-#weeabot
+#bongbot
 
-Python Twisted based Japanese support irc bot.
+Python Twisted based British support irc bot. (forked from on-three)
 
-Weeabot currently provides the following support via a simple plugin architecture:
+Britbot currently provides the following support via a simple plugin architecture:
 
-* Japanese word lookup via Jisho.org.
-* English to Japanese word lookup via Jisho.org.
-* Display current Tokyo time in Japanese.
-* Transliterate words and phrases into katakana via sci.lang.jp web tool.
-* Control of a local slingbox player via autohotkey (windows only).
-* Lookup of Japanese TV schedules fia the テレビ王国 site, including current and next program.
+* ~~Japanese word lookup via Jisho.org.~~
+* ~~English to Japanese word lookup via Jisho.org.~~
+* ~~Display current Tokyo time in Japanese.~~
+* ~~Transliterate words and phrases into katakana via sci.lang.jp web tool.~~
+* ~~Control of a local slingbox player via autohotkey (windows only).~~
+* ~~Lookup of Japanese TV schedules fia the テレビ王国 site, including current and next program.~~
 * Translaton of phrases via Bing Translate
-* Auto translation of TV schedules scraped off テレビ王国.
-* Automatic playing of posted .webm files (atop a video stream, for example).
+* ~~Auto translation of TV schedules scraped off テレビ王国.~~
+* ~~Automatic playing of posted .webm files (atop a video stream, for example).~~
 * ~~IRC lookups inserted into SQL backend.~~
 * ~~Django web interface for viewing and manipulating lookup history.~~
 * ~~Formation of vocabulary lists via web interface.~~
