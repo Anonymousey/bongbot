@@ -17,7 +17,7 @@ Britbot currently provides the following support via a simple plugin architectur
 * ~~Django web interface for viewing and manipulating lookup history.~~
 * ~~Formation of vocabulary lists via web interface.~~
 
-This program is used experimention, please use the orginal version at https://github.com/on-three/weeabot
+This program is used for experimentation, please use the orginal version at https://github.com/on-three/weeabot
 
 ##Using the Bot
 
